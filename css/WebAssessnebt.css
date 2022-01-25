@@ -145,7 +145,7 @@ p.s2p2{
     text-decoration: none;
     padding-top: 8px;
 }
-.s2-rightContect > div:nth-child(3){
+.s2-rightContect > div:hover{
     background-color:#8A97A8;
 }
 h3.title3{
@@ -243,7 +243,7 @@ p.s3desc{
     width: 35%;
     height:auto ;
 }
-.s4-rightContect > div:nth-child(odd){
+.s4-rightContect > div:hover{
     background-color:#8A97A8;
 }
 
@@ -357,6 +357,8 @@ footer {
     }
     .s2-rightContect > div:nth-child(3){
         padding-top: 64px;
+    }
+    .s2-rightContect > div:hover{
         background-color: #fff;
     }
 
